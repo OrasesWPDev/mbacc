@@ -1,0 +1,42 @@
+/* Banner Statistics Admin Display Styles */
+.form-horizontal {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.control-label {
+    width: 25%;
+    padding-right: 15px;
+    font-weight: 600;
+}
+
+.form-control-static {
+    margin: 0;
+    flex: 1;
+}
+
+.form-control-static a {
+    text-decoration: none;
+}
+
+.export-button {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.export-button .button {
+    padding: 5px 15px;
+}
+
+/* Dashicon alignment in button */
+.export-button .dashicons {
+    vertical-align: middle;
+}

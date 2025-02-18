@@ -1,0 +1,310 @@
+/**
+ * Banner Styles
+ *
+ * Core styles for the random banner system
+ * Features:
+ * - Responsive design using Flatsome's grid
+ * - Dark mode support
+ * - Mobile-first approach
+ * - Clean, minimal design
+ * - Admin interface styling
+ * - Statistics display styling
+ */
+
+/* Main Banner Container */
+.random-banner {
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+/* Column Inner Spacing */
+.random-banner .col-inner {
+    position: relative;
+    padding: 15px;
+}
+
+/* Banner Title Styles */
+.random-banner h3 {
+    margin-bottom: 15px;
+    color: #1E2C64 !important;
+    font-size: 1.625em;
+    line-height: 1.3;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* Banner Description Styles */
+.random-banner .banner-description {
+    color: #ffffff !important;
+    line-height: 1.625;
+    font-size: 1.063em;
+}
+
+/* Banner Image Styles */
+.random-banner img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+}
+
+/* Image Hover Effect */
+.random-banner .ad-image a:hover img {
+    transform: scale(1.02);
+}
+
+/**
+ * Statistics Display Container
+ */
+.stats-container {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.banner-stats-display {
+    margin-bottom: 15px;
+}
+
+.banner-stats-display table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+}
+
+.banner-stats-display th,
+.banner-stats-display td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.banner-stats-display th {
+    background-color: #f8f8f8;
+    font-weight: 600;
+    width: 30%;
+}
+
+/**
+ * Button Positioning and Styling
+ */
+.stats-container .submit {
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.stats-container .submit .button-primary {
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.stats-container .dashicons {
+    font-size: 16px;
+    height: 16px;
+    width: 16px;
+}
+
+/**
+ * Admin Interface Customizations
+ */
+/* Hide ACF field group */
+#acf-group_675b084b5d078 {
+    display: none !important;
+}
+
+/* Hide all postboxes except our custom template */
+.postbox:not(.banner-statistics-display) {
+    display: none !important;
+}
+
+/* Hide various UI elements */
+#screen-options-link-wrap,
+#contextual-help-link-wrap,
+#submitdiv,
+#slugdiv,
+.page-title-action,
+#postimagediv,
+#wp-admin-bar-new-banner_statistic,
+.acf-hndle-cog,
+.handle-order-higher,
+.handle-order-lower,
+.handlediv {
+    display: none !important;
+}
+
+/**
+ * Banner Rotation and Visibility Styles
+ */
+.banner-slide {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.banner-slide.active {
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    z-index: 10;
+}
+
+.banner-rotation-container {
+    position: relative;
+    min-height: 254px;
+}
+
+/**
+ * Location-specific styles
+ */
+.random-banner-home-page-standard-ad,
+.random-banner-home-page-platinum-sponsor,
+.random-banner-interior-page {
+    /* Add specific styles as needed */
+}
+
+/**
+ * Dark Mode Styles
+ */
+@media (prefers-color-scheme: dark) {
+    .random-banner h3 {
+        color: #1E2C64;
+    }
+
+    .random-banner .banner-description {
+        color: #fff;
+    }
+}
+
+/**
+ * Print Styles
+ */
+@media print {
+    .random-banner {
+        border: 1px solid #ddd;
+    }
+
+    .random-banner h3,
+    .random-banner .banner-description {
+        color: #000;
+    }
+}
+
+/**
+ * Responsive Styles
+ */
+/* Medium devices (tablets) */
+@media screen and (min-width: 550px) and (max-width: 849px) {
+    .random-banner h3 {
+        font-size: 1.3em;
+    }
+}
+
+/* Small devices (phones) */
+@media screen and (max-width: 549px) {
+    /* Banner container styles */
+    .random-banner {
+        padding: 15px;
+    }
+
+    .random-banner .col-inner {
+        padding: 10px;
+    }
+
+    /* Text styles */
+    .random-banner h3 {
+        font-size: 1.2em;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .random-banner .banner-description {
+        font-size: 0.9em;
+        text-align: center;
+        margin-bottom: -25px;
+    }
+
+    /* Image styles */
+    .random-banner img {
+        width: 255px;
+        height: 212px;
+        object-fit: contain;
+        margin: 0 auto;
+        display: block;
+    }
+
+    /* Banner container */
+    .banner_swoop {
+        min-height: 750px !important;
+    }
+
+    /* Mobile visibility fixes */
+    .banner-rotation-container {
+        position: relative !important;
+        min-height: 254px !important;
+        width: 100% !important;
+    }
+
+    .banner-slide {
+        position: absolute !important;
+        width: 100% !important;
+        height: auto !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out !important;
+    }
+
+    .banner-slide.active {
+        position: relative !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        z-index: 10 !important;
+    }
+
+    /* Mobile section specific overrides */
+    section[visibility="show-for-small"] .banner-slide {
+        display: block !important;
+    }
+
+    section[visibility="show-for-small"] .banner-slide.active {
+        position: relative !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+
+    /* Admin interface mobile adjustments */
+    .stats-container button {
+        position: static;
+        margin-top: 15px;
+        width: 100%;
+        justify-content: center;
+    }
+}
+/* Desktop/Tablet Background */
+@media screen and (min-width: 550px) {
+    .banner_swoop {
+        background-image: url('https://mbacc2024.wpenginepowered.com/wp-content/uploads/2024/09/BlueCurve-wave1.png') !important;
+        background-size: original;
+        background-position: 39% 100%;
+        height: 912px;
+    }
+}
+
+/* Mobile Background */
+@media screen and (max-width: 549px) {
+    .banner_swoop {
+        background-image: url('https://mbacc2024.wpenginepowered.com/wp-content/uploads/2024/12/wave-mobile.png') !important;
+        background-size: original;
+        background-position: 50% 100%;
+        height: 650px;
+    }
+}

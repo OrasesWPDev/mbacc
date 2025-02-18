@@ -1,0 +1,380 @@
+[18-Feb-2025 15:22:01 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:01 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:08 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:08 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:09 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:09 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:10 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:10 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:12 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:12 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:13 UTC] wpe_cache_plugin:info: event=clear-all-cache
+[18-Feb-2025 15:22:17 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:17 UTC] Initializing Banner Manager
+[18-Feb-2025 15:22:17 UTC] template_redirect action triggered
+[18-Feb-2025 15:22:18 UTC] Valid banners found: 2
+[18-Feb-2025 15:22:18 UTC] Processing banner location: Home Page - Standard Ad - Found banners: 2
+[18-Feb-2025 15:22:18 UTC] Banner output generated for location: Home Page - Standard Ad
+[18-Feb-2025 15:22:18 UTC] Valid banners found: 3
+[18-Feb-2025 15:22:18 UTC] Processing banner location: Home Page - Platinum Sponsor - Found banners: 3
+[18-Feb-2025 15:22:18 UTC] Banner output generated for location: Home Page - Platinum Sponsor
+[18-Feb-2025 15:22:18 UTC] Global flag state in wp_footer: set
+[18-Feb-2025 15:22:18 UTC] Disabling cache for page with random_banner shortcode
+[18-Feb-2025 15:22:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:22:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:23:01 UTC] Banner_Manager instance created
+[18-Feb-2025 15:23:01 UTC] Initializing Banner Manager
+[18-Feb-2025 15:23:02 UTC] Banner_Manager instance created
+[18-Feb-2025 15:23:02 UTC] Initializing Banner Manager
+[18-Feb-2025 15:23:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:23:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:23:11 UTC] Banner_Manager instance created
+[18-Feb-2025 15:23:11 UTC] Initializing Banner Manager
+[18-Feb-2025 15:23:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:23:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:24:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:24:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:24:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:24:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:24:39 UTC] Banner_Manager instance created
+[18-Feb-2025 15:24:39 UTC] Initializing Banner Manager
+[18-Feb-2025 15:24:46 UTC] Banner_Manager instance created
+[18-Feb-2025 15:24:46 UTC] Initializing Banner Manager
+[18-Feb-2025 15:24:46 UTC] template_redirect action triggered
+[18-Feb-2025 15:24:46 UTC] Valid banners found: 3
+[18-Feb-2025 15:24:46 UTC] Processing banner location: Interior Page - Found banners: 3
+[18-Feb-2025 15:24:46 UTC] Banner output generated for location: Interior Page
+[18-Feb-2025 15:24:46 UTC] Global flag state in wp_footer: set
+[18-Feb-2025 15:24:46 UTC] Disabling cache for page with random_banner shortcode
+[18-Feb-2025 15:25:02 UTC] Banner_Manager instance created
+[18-Feb-2025 15:25:02 UTC] Initializing Banner Manager
+[18-Feb-2025 15:25:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:25:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:25:12 UTC] Banner_Manager instance created
+[18-Feb-2025 15:25:12 UTC] Initializing Banner Manager
+[18-Feb-2025 15:25:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:25:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:25:39 UTC] Banner_Manager instance created
+[18-Feb-2025 15:25:39 UTC] Initializing Banner Manager
+[18-Feb-2025 15:26:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:26:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:26:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:26:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:27:02 UTC] Banner_Manager instance created
+[18-Feb-2025 15:27:02 UTC] Initializing Banner Manager
+[18-Feb-2025 15:27:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:27:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:27:11 UTC] Banner_Manager instance created
+[18-Feb-2025 15:27:11 UTC] Initializing Banner Manager
+[18-Feb-2025 15:27:14 UTC] Banner_Manager instance created
+[18-Feb-2025 15:27:14 UTC] Initializing Banner Manager
+[18-Feb-2025 15:27:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:27:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:28:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:28:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:28:14 UTC] Banner_Manager instance created
+[18-Feb-2025 15:28:14 UTC] Initializing Banner Manager
+[18-Feb-2025 15:28:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:28:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:02 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:02 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:04 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:04 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:11 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:11 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:14 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:14 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:23 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:23 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:27 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:27 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:28 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:28 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:28 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:28 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:29 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:29 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:29 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:29 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:34 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:34 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:35 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:35 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:38 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:38 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:42 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:42 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:50 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:50 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:51 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:51 UTC] Initializing Banner Manager
+[18-Feb-2025 15:29:52 UTC] Banner_Manager instance created
+[18-Feb-2025 15:29:52 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:09 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:09 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:11 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:11 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:11 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:11 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:12 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:12 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:15 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:15 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:23 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:23 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:39 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:39 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:40 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:40 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:40 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:40 UTC] Initializing Banner Manager
+[18-Feb-2025 15:30:41 UTC] Banner_Manager instance created
+[18-Feb-2025 15:30:41 UTC] Initializing Banner Manager
+[18-Feb-2025 15:31:02 UTC] Banner_Manager instance created
+[18-Feb-2025 15:31:02 UTC] Initializing Banner Manager
+[18-Feb-2025 15:31:12 UTC] Banner_Manager instance created
+[18-Feb-2025 15:31:12 UTC] Initializing Banner Manager
+[18-Feb-2025 15:31:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:31:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:31:40 UTC] Banner_Manager instance created
+[18-Feb-2025 15:31:40 UTC] Initializing Banner Manager
+[18-Feb-2025 15:31:42 UTC] Banner_Manager instance created
+[18-Feb-2025 15:31:42 UTC] Initializing Banner Manager
+[18-Feb-2025 15:32:12 UTC] Banner_Manager instance created
+[18-Feb-2025 15:32:12 UTC] Initializing Banner Manager
+[18-Feb-2025 15:32:40 UTC] Banner_Manager instance created
+[18-Feb-2025 15:32:40 UTC] Initializing Banner Manager
+[18-Feb-2025 15:32:42 UTC] Banner_Manager instance created
+[18-Feb-2025 15:32:42 UTC] Initializing Banner Manager
+[18-Feb-2025 15:33:13 UTC] Banner_Manager instance created
+[18-Feb-2025 15:33:13 UTC] Initializing Banner Manager
+[18-Feb-2025 15:33:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:33:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:33:24 UTC] Banner_Manager instance created
+[18-Feb-2025 15:33:24 UTC] Initializing Banner Manager
+[18-Feb-2025 15:34:27 UTC] Banner_Manager instance created
+[18-Feb-2025 15:34:27 UTC] Initializing Banner Manager
+[18-Feb-2025 15:35:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:35:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:36:27 UTC] Banner_Manager instance created
+[18-Feb-2025 15:36:27 UTC] Initializing Banner Manager
+[18-Feb-2025 15:37:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:37:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:37:27 UTC] Banner_Manager instance created
+[18-Feb-2025 15:37:27 UTC] Initializing Banner Manager
+[18-Feb-2025 15:38:27 UTC] Banner_Manager instance created
+[18-Feb-2025 15:38:27 UTC] Initializing Banner Manager
+[18-Feb-2025 15:39:18 UTC] Banner_Manager instance created
+[18-Feb-2025 15:39:18 UTC] Initializing Banner Manager
+[18-Feb-2025 15:40:17 UTC] Banner_Manager instance created
+[18-Feb-2025 15:40:17 UTC] Initializing Banner Manager
+[18-Feb-2025 15:41:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:41:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:42:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:42:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:43:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:43:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:44:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:44:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:45:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:45:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:46:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:46:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:48:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:48:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:50:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:50:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:52:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:52:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:54:16 UTC] Banner_Manager instance created
+[18-Feb-2025 15:54:16 UTC] Initializing Banner Manager
+[18-Feb-2025 15:59:43 UTC] Banner_Manager instance created
+[18-Feb-2025 15:59:43 UTC] Initializing Banner Manager
+[18-Feb-2025 16:00:43 UTC] Banner_Manager instance created
+[18-Feb-2025 16:00:43 UTC] Initializing Banner Manager
+[18-Feb-2025 16:02:43 UTC] Banner_Manager instance created
+[18-Feb-2025 16:02:43 UTC] Initializing Banner Manager
+[18-Feb-2025 16:02:43 UTC] Banner_Manager instance created
+[18-Feb-2025 16:02:43 UTC] Initializing Banner Manager
+[18-Feb-2025 16:02:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Flatsome Child","slug":"flatsome-child","ver":"3.0","sig":"v1:nohash"}
+[18-Feb-2025 16:02:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Flatsome","slug":"flatsome","ver":"3.19.9","sig":"v1:nohash"}
+[18-Feb-2025 16:02:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Twenty-Five","slug":"twentytwentyfive","ver":"1.1","sig":"v1:nohash"}
+[18-Feb-2025 16:04:43 UTC] Banner_Manager instance created
+[18-Feb-2025 16:04:43 UTC] Initializing Banner Manager
+[18-Feb-2025 16:06:44 UTC] Banner_Manager instance created
+[18-Feb-2025 16:06:44 UTC] Initializing Banner Manager
+[18-Feb-2025 16:08:44 UTC] Banner_Manager instance created
+[18-Feb-2025 16:08:44 UTC] Initializing Banner Manager
+[18-Feb-2025 16:08:45 UTC] Banner_Manager instance created
+[18-Feb-2025 16:08:45 UTC] Initializing Banner Manager
+[18-Feb-2025 16:08:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-includes","slug":"wp-includes","ver":"6.7.2","sig":"v1:nohash"}
+[18-Feb-2025 16:08:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-admin","slug":"wp-admin","ver":"6.7.2","sig":"v1:nohash"}
+[18-Feb-2025 16:25:04 UTC] Banner_Manager instance created
+[18-Feb-2025 16:25:04 UTC] Initializing Banner Manager
+[18-Feb-2025 16:25:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:25:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:26:04 UTC] Banner_Manager instance created
+[18-Feb-2025 16:26:04 UTC] Initializing Banner Manager
+[18-Feb-2025 16:26:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:26:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:27:54 UTC] Banner_Manager instance created
+[18-Feb-2025 16:27:54 UTC] Initializing Banner Manager
+[18-Feb-2025 16:28:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:28:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:28:54 UTC] Banner_Manager instance created
+[18-Feb-2025 16:28:54 UTC] Initializing Banner Manager
+[18-Feb-2025 16:29:54 UTC] Banner_Manager instance created
+[18-Feb-2025 16:29:54 UTC] Initializing Banner Manager
+[18-Feb-2025 16:29:55 UTC] Banner_Manager instance created
+[18-Feb-2025 16:29:55 UTC] Initializing Banner Manager
+[18-Feb-2025 16:29:55 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-includes","slug":"wp-includes","ver":"6.7.2","sig":"v1:nohash"}
+[18-Feb-2025 16:29:55 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-admin","slug":"wp-admin","ver":"6.7.2","sig":"v1:nohash"}
+[18-Feb-2025 16:30:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:30:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:31:54 UTC] Banner_Manager instance created
+[18-Feb-2025 16:31:54 UTC] Initializing Banner Manager
+[18-Feb-2025 16:32:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:32:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:33:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:33:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:33:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:33:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine System","slug":"mu-plugin.php","ver":"6.4.1","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"Force Strong Passwords - WPE Edition","slug":"slt-force-strong-passwords.php","ver":"1.8.0","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Cache Plugin","slug":"wpe-cache-plugin.php","ver":"1.3.3","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Seamless Login Plugin","slug":"wpe-wp-sign-on-plugin.php","ver":"1.6.1","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Security Auditor","slug":"wpengine-security-auditor.php","ver":"1.1.1","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Gravity Forms","slug":"gravityforms/gravityforms.php","ver":"2.9.3","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields: Theme Code","slug":"acf-theme-code/acf_theme_code.php","ver":"2.5.6","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields PRO","slug":"advanced-custom-fields-pro/acf.php","ver":"6.3.12","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Disable Gutenberg","slug":"disable-gutenberg/disable-gutenberg.php","ver":"3.2.2","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Duplicate Page","slug":"duplicate-page/duplicatepage.php","ver":"4.5.4","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Redirection","slug":"redirection/redirection.php","ver":"5.5.2","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Relevanssi","slug":"relevanssi/relevanssi.php","ver":"4.24.3","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Simple History","slug":"simple-history/index.php","ver":"5.6.1","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Yoast SEO","slug":"wordpress-seo/wp-seo.php","ver":"24.5","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WP Import Export Lite","slug":"wp-import-export-lite/wp-import-export-lite.php","ver":"3.9.27","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WPFront Notification Bar","slug":"wpfront-notification-bar/wpfront-notification-bar.php","ver":"3.4.2","sig":"v1:nohash"}
+[18-Feb-2025 16:33:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:33:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:34:40 UTC] Banner_Manager instance created
+[18-Feb-2025 16:34:40 UTC] Initializing Banner Manager
+[18-Feb-2025 16:34:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:34:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:34:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:34:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:36:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:36:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:36:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:36:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:37:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:37:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:38:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:38:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:39:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:39:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:40:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:40:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:41:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:41:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:42:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:42:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:43:20 UTC] Banner_Manager instance created
+[18-Feb-2025 16:43:20 UTC] Initializing Banner Manager
+[18-Feb-2025 16:43:20 UTC] wpe_cache_plugin:info: event=clear-all-cache
+[18-Feb-2025 16:43:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:43:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:43:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:43:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:45:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:45:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:45:51 UTC] Banner_Manager instance created
+[18-Feb-2025 16:45:51 UTC] Initializing Banner Manager
+[18-Feb-2025 16:46:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:46:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:48:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:48:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:49:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:49:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:50:50 UTC] Banner_Manager instance created
+[18-Feb-2025 16:50:50 UTC] Initializing Banner Manager
+[18-Feb-2025 16:52:12 UTC] Banner_Manager instance created
+[18-Feb-2025 16:52:12 UTC] Initializing Banner Manager
+[18-Feb-2025 16:53:12 UTC] Banner_Manager instance created
+[18-Feb-2025 16:53:12 UTC] Initializing Banner Manager
+[18-Feb-2025 16:54:12 UTC] Banner_Manager instance created
+[18-Feb-2025 16:54:12 UTC] Initializing Banner Manager
+[18-Feb-2025 16:56:05 UTC] Banner_Manager instance created
+[18-Feb-2025 16:56:05 UTC] Initializing Banner Manager
+[18-Feb-2025 16:56:07 UTC] Banner_Manager instance created
+[18-Feb-2025 16:56:07 UTC] Initializing Banner Manager
+[18-Feb-2025 16:57:09 UTC] Banner_Manager instance created
+[18-Feb-2025 16:57:09 UTC] Initializing Banner Manager
+[18-Feb-2025 16:59:12 UTC] Banner_Manager instance created
+[18-Feb-2025 16:59:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:01:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:01:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:03:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:03:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:05:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:05:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:36:52 UTC] Banner_Manager instance created
+[18-Feb-2025 17:36:52 UTC] Initializing Banner Manager
+[18-Feb-2025 17:36:53 UTC] Banner_Manager instance created
+[18-Feb-2025 17:36:53 UTC] Initializing Banner Manager
+[18-Feb-2025 17:37:52 UTC] Banner_Manager instance created
+[18-Feb-2025 17:37:52 UTC] Initializing Banner Manager
+[18-Feb-2025 17:39:52 UTC] Banner_Manager instance created
+[18-Feb-2025 17:39:52 UTC] Initializing Banner Manager
+[18-Feb-2025 17:41:52 UTC] Banner_Manager instance created
+[18-Feb-2025 17:41:52 UTC] Initializing Banner Manager
+[18-Feb-2025 17:43:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:43:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:44:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:44:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:45:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:45:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:47:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:47:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:49:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:49:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:51:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:51:12 UTC] Initializing Banner Manager
+[18-Feb-2025 17:53:12 UTC] Banner_Manager instance created
+[18-Feb-2025 17:53:12 UTC] Initializing Banner Manager
+[18-Feb-2025 18:02:25 UTC] Banner_Manager instance created
+[18-Feb-2025 18:02:25 UTC] Initializing Banner Manager
+[18-Feb-2025 18:02:25 UTC] template_redirect action triggered
+[18-Feb-2025 18:02:26 UTC] Valid banners found: 3
+[18-Feb-2025 18:02:26 UTC] Processing banner location: Interior Page - Found banners: 3
+[18-Feb-2025 18:02:26 UTC] Banner output generated for location: Interior Page
+[18-Feb-2025 18:02:26 UTC] Global flag state in wp_footer: set
+[18-Feb-2025 18:02:26 UTC] Disabling cache for page with random_banner shortcode
+[18-Feb-2025 18:02:29 UTC] Banner_Manager instance created
+[18-Feb-2025 18:02:29 UTC] Initializing Banner Manager
+[18-Feb-2025 18:02:29 UTC] template_redirect action triggered
+[18-Feb-2025 18:02:29 UTC] Valid banners found: 2
+[18-Feb-2025 18:02:29 UTC] Processing banner location: Home Page - Standard Ad - Found banners: 2
+[18-Feb-2025 18:02:29 UTC] Banner output generated for location: Home Page - Standard Ad
+[18-Feb-2025 18:02:29 UTC] Valid banners found: 3
+[18-Feb-2025 18:02:29 UTC] Processing banner location: Home Page - Platinum Sponsor - Found banners: 3
+[18-Feb-2025 18:02:29 UTC] Banner output generated for location: Home Page - Platinum Sponsor
+[18-Feb-2025 18:02:29 UTC] Global flag state in wp_footer: set
+[18-Feb-2025 18:02:29 UTC] Disabling cache for page with random_banner shortcode
+[18-Feb-2025 18:39:53 UTC] Banner_Manager instance created
+[18-Feb-2025 18:39:53 UTC] Initializing Banner Manager
+[18-Feb-2025 18:39:54 UTC] Banner_Manager instance created
+[18-Feb-2025 18:39:54 UTC] Initializing Banner Manager
+[18-Feb-2025 18:39:54 UTC] template_redirect action triggered
+[18-Feb-2025 18:39:55 UTC] Valid banners found: 2
+[18-Feb-2025 18:39:55 UTC] Processing banner location: Home Page - Standard Ad - Found banners: 2
+[18-Feb-2025 18:39:55 UTC] Banner output generated for location: Home Page - Standard Ad
+[18-Feb-2025 18:39:55 UTC] Valid banners found: 3
+[18-Feb-2025 18:39:55 UTC] Processing banner location: Home Page - Platinum Sponsor - Found banners: 3
+[18-Feb-2025 18:39:55 UTC] Banner output generated for location: Home Page - Platinum Sponsor
+[18-Feb-2025 18:39:55 UTC] Global flag state in wp_footer: set
+[18-Feb-2025 18:39:55 UTC] Disabling cache for page with random_banner shortcode

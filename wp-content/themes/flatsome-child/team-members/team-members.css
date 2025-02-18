@@ -1,0 +1,281 @@
+/**
+ * Team Members Styles
+ *
+ * Handles all styling for team member displays including:
+ * - Archive/Grid views
+ * - Single member pages
+ * - Responsive layouts
+ * - Image and no-image variants
+ *
+ * @package TeamMembers
+ */
+
+/* ==========================================================================
+   Archive/Grid View Styles
+   ========================================================================== */
+
+/**
+ * Grid Container
+ * Handles overall grid layout and spacing
+ */
+.team-members-grid {
+    margin-bottom: 30px;
+}
+
+/**
+ * Base Card Styles
+ * Common styles for all team member cards
+ */
+.team-member-card {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    transition: all 0.3s ease; /* Smooth hover transitions */
+}
+
+.team-member-card:hover {
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+/**
+ * Card Image Styles
+ * Handles both image container and image itself
+ */
+/* Archive thumbnail specific styles */
+.team-members-archive .team-member-image {
+    margin-bottom: 10px;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.team-members-archive .team-member-image img {
+    width: 281px;
+    height: 300px;
+    display: block;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.team-member-single .team-member-image {
+    margin-bottom: 10px;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+.team-member-single .team-member-image img {
+    width: 400px;
+    height: 450px;
+    display: block;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+/**
+ * Card Content Styles
+ * Different layouts for cards with and without images
+ */
+/* Cards with images */
+.team-member-card.has-image .team-member-card-content {
+    padding: 10px;
+}
+
+/* Cards without images */
+.team-member-card.no-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 150px;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+.team-member-card.no-image .team-member-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+/**
+ * Typography Styles
+ * Text formatting for names, titles, and other content
+ */
+.team-member-name {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.team-member-title,
+.team-member-company {
+    display: block;
+    font-size: 0.9em;
+    color: #666;
+}
+
+/* ==========================================================================
+   Single Member Page Styles
+   ========================================================================== */
+
+/**
+ * Single Member Layout
+ * Styles specific to individual member pages
+ */
+.team-member-single {
+    padding: 20px 0;
+}
+
+.team-member-single-row {
+    align-items: flex-start;
+}
+
+/**
+ * Single Member Content
+ * Typography and spacing for member details
+ */
+.team-member-single h1.team-member-name {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.team-member-single h3.team-member-title {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.team-member-contact {
+    margin: 20px 0;
+}
+
+.team-member-bio {
+    margin-top: 30px;
+}
+
+.team-member-bio-title {
+    margin-bottom: 15px;
+}
+
+/* ==========================================================================
+   Responsive Styles
+   ========================================================================== */
+
+/**
+ * Desktop and Tablet Landscape (849px and up)
+ */
+@media screen and (min-width: 850px) {
+    .team-member-single-image-col {
+        padding-right: 30px;
+    }
+}
+
+/**
+ * Tablet Portrait (between 550px and 849px)
+ */
+@media screen and (max-width: 849px) {
+    /* Archive page image adjustments */
+    .team-members-archive .team-member-image {
+        height: auto;
+    }
+
+    .team-members-archive .team-member-image img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 281/300;
+    }
+
+    /* Single page image adjustments */
+    .team-member-single .team-member-image {
+        height: auto;
+    }
+
+    .team-member-single .team-member-image img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 422/350;
+    }
+
+    /* Card styles */
+    .team-member-card.no-image {
+        min-height: 120px;
+    }
+
+    .team-member-name {
+        font-size: 1em;
+    }
+
+    .team-member-title,
+    .team-member-company {
+        font-size: 0.85em;
+    }
+}
+
+/**
+ * Mobile (549px and below)
+ */
+@media screen and (max-width: 549px) {
+    /* Archive page image adjustments */
+    .team-members-archive .team-member-image {
+        height: auto;
+    }
+
+    .team-members-archive .team-member-image img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 281/300;
+    }
+
+    /* Single page image adjustments */
+    .team-member-single .team-member-image {
+        height: auto;
+    }
+
+    .team-member-single .team-member-image img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 422/350;
+    }
+
+    /* Card styles */
+    .team-member-card.no-image {
+        min-height: 100px;
+    }
+
+    .team-member-single h1.team-member-name {
+        font-size: 1.5em;
+    }
+
+    .team-member-single h3.team-member-title {
+        font-size: 1.1em;
+    }
+}
+
+/* ==========================================================================
+   Print Styles
+   ========================================================================== */
+
+@media print {
+    .team-member-card {
+        page-break-inside: avoid;
+    }
+
+    .team-member-single {
+        page-break-after: always;
+    }
+}
+
+/* No Results Message Button Styling */
+.staff-message-button {
+    margin-top: 20px;
+}
+
+.staff-message-button .button {
+    margin-bottom: 0;
+    min-width: 200px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
